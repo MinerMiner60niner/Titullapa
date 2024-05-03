@@ -1,0 +1,13 @@
+.container1 {
+    width: 100%;
+    margin: 0 auto;
+    background-image: url('Pics-titul/Logo-fona.png');
+  }
+    
+  .item {
+    padding: 15px;
+    background-color: #DBB565 ;
+    font-weight: 700;
+    color: var(--clr-light);
+    border: 1px solid var(--clr-accent);
+}
